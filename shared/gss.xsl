@@ -21,7 +21,8 @@
      1.4 / 24 Aug 2005 - sourceForge and LGPL links and logos
                        - sorting is working for siteindex (see gss.js) -->
 
-<xsl:stylesheet version="2.0" 
+<xsl:stylesheet version="2.0"
+		xmlns="http://www.w3.org/1999/xhtml"
                 xmlns:html="http://www.w3.org/TR/REC-html40"
                 xmlns:sitemap="http://www.google.com/schemas/sitemap/0.84"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
